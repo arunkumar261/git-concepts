@@ -24,4 +24,5 @@ developmentis completed
 Squash code is adding first line
 Squash code is adding second line
 Squash code is adding third line
-Squash code is adding fourth line
+Squash code is adding fourth 
+Squash code is adding fifth line
