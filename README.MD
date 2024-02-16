@@ -28,3 +28,4 @@ Squash code is adding fourth
 Squash code is adding fifth line
 Squash code is adding sixth line
 Squash code is adding seventh line
+Squash code is adding eighth line
