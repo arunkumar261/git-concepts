@@ -8,3 +8,5 @@ this commit 3 from feature branch
 ###
 feature-1
 developer is doing some changes
+
+developer  new changes added  and committed to git
