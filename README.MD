@@ -18,3 +18,7 @@ rebase code is added
 code developing still
 
 developmentis completed
+
+
+###
+Squash code is adding first line
