@@ -22,3 +22,4 @@ developmentis completed
 
 ###
 Squash code is adding first line
+Squash code is adding second line
