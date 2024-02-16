@@ -30,3 +30,4 @@ Squash code is adding sixth line
 Squash code is adding seventh line
 Squash code is adding eighth line
 Squash code is adding nineth line
+Squash code is adding tenth line
